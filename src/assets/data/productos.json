@@ -1,0 +1,127 @@
+[{
+
+        "_id": "1",
+        "nombre": "Formon",
+        "descripcion": "16 mm mango fibra de vidrio",
+        "marca": "Truper",
+        "categoria": ["Herramienta", "General"],
+        "imageUrl": [
+            "../../assets/img/products/carpinteria/1.jpg"
+        ],
+        "precio_venta": 30,
+        "precio_regular": 35,
+        "created_at": "2024-05-14T16:51:07.214X",
+        "slug": "tipo-formon"
+    },
+
+    {
+        "_id": "2",
+        "nombre": "Hacha",
+        "descripcion": "3 lb mango fibra de vidrio",
+        "marca": "Truper",
+        "categoria": ["Herramienta", "General"],
+        "imageUrl": [
+            "../../assets/img/products/hachas/12.jpg"
+        ],
+        "precio_venta": 130,
+        "precio_regular": 135,
+        "created_at": "2024-05-14T17:51:07.214X",
+        "slug": "tipo-hacha"
+    },
+
+    {
+        "_id": "3",
+        "nombre": "Esmeriladora",
+        "descripcion": "7 pulgadas, profesional, 700W",
+        "marca": "Truper",
+        "categoria": ["Herramienta eléctrica ", "Carpintería", "Herrería"],
+        "imageUrl": [
+            "../../assets/img/products/industriales/2.jpg"
+        ],
+        "precio_venta": 630,
+        "precio_regular": 645,
+        "created_at": "2023-05-14T16:51:07.214X",
+        "slug": "tipo-esmeriladora"
+    },
+
+    {
+        "_id": "4",
+        "nombre": "Casco",
+        "descripcion": "Casco de seguridad, ajuste sencillo",
+        "marca": "Truper",
+        "categoria": ["Industrial", "Seguridad"],
+        "imageUrl": [
+            "../../assets/img/products/seguridad/b-1.jpg",
+            "../../assets/img/products/seguridad/b-2.jpg",
+            "../../assets/img/products/seguridad/b-3.jpg",
+            "../../assets/img/products/seguridad/b-4.jpg"
+        ],
+        "precio_venta": 55,
+        "precio_regular": 58,
+        "created_at": "2024-05-14T17:51:07.214X",
+        "slug": "tipo-casco"
+    },
+    {
+        "_id": "5",
+        "nombre": "Zapato de cuero",
+        "descripcion": "Botas de cuero, con punta de acero, suela dielectrica",
+        "marca": "Truper",
+        "categoria": ["Industrial", "Seguridad"],
+        "imageUrl": [
+            "../../assets/img/products/seguridad/a-1.jpg",
+            "../../assets/img/products/seguridad/a-2.jpg",
+            "../../assets/img/products/seguridad/a-3.jpg"
+        ],
+        "precio_venta": 535,
+        "precio_regular": 565,
+        "created_at": "2024-05-14T17:51:07.214X",
+        "slug": "tipo-calzado"
+    },
+
+    {
+        "_id": "6",
+        "nombre": "Flexometro 5mt",
+        "descripcion": "Cinta ancha de 1 pul, largo de 5 metros, industrial",
+        "marca": "Stanley",
+        "categoria": ["Herramienta", "Medicion"],
+        "imageUrl": [
+            "../../assets/img/products/medicion/1.jpg"
+        ],
+        "precio_venta": 55,
+        "precio_regular": 60,
+        "created_at": "2024-05-14T17:51:07.214X",
+        "slug": "tipo-flexometro"
+    },
+
+    {
+        "_id": "7",
+        "nombre": "Cinta Métrica",
+        "descripcion": "Cinta de 50 metros de fibra de vidrio, numeros grandes en pulagadas y en centimetros",
+        "marca": "Kendo",
+        "categoria": ["Herramienta", "Medicion"],
+        "imageUrl": [
+            "../../assets/img/products/medicion/5.jpg"
+        ],
+        "precio_venta": 135,
+        "precio_regular": 143,
+        "created_at": "2023-05-14T17:51:07.214X",
+        "slug": "tipo-cintas"
+    },
+
+    {
+        "_id": "8",
+        "nombre": "Metro láser",
+        "descripcion": "Metro láser de alta capacidad, alcance de 100 metros de distancia",
+        "marca": "Kendo",
+        "categoria": ["Herramienta", "Medicion"],
+        "imageUrl": [
+            "../../assets/img/products/medicion/2.jpg"
+        ],
+        "precio_venta": 509,
+        "precio_regular": 529,
+        "created_at": "2024-04-14T17:51:07.214X",
+        "slug": "tipo-laser"
+    }
+
+
+]

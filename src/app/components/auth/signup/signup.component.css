@@ -1,0 +1,7 @@
+#fondo {
+    margin: 0px;
+    width: 100vw;
+    height: auto;
+    background-image: url(../../../../assets/img/banner/default/CONS.jpg);
+    background-size: cover;
+}
